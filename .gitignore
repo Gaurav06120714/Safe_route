@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+.venv/
+*.egg-info/
+
+# Environment
+.env
+.env.local
+.env.production
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Logs
+*.log
+server.log
+logs/
+
+# Node
+node_modules/
+dist/
+dist-ssr/
+build/
+.next/
+
+# macOS
+.DS_Store
+
+# Editor
+.vscode/
+.idea/
+*.suo
+*.sw?
+
+# Docker
+.docker/
+
+# Test cache
+.pytest_cache/
+.coverage
+htmlcov/
